@@ -44,8 +44,8 @@ This project is a Django backend REST API with React Native mobile integration, 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    git clone https://github.com/oys2021/ExpenseApi.git
+    cd ExpenseApi
     ```
 
 2. Create and activate a virtual environment:
